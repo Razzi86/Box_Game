@@ -6,7 +6,7 @@ I had recently gone to Dave & Busters with my dad and had played the -*extremely
 
 **[Cyclone Arcade Game](https://www.betson.com/amusement-products/cyclone/)**
 
-![cyclonegif](https://user-images.githubusercontent.com/75161978/150029734-cc76dd88-059a-4117-aa4b-8dcea232e890.gif)
+<img src="https://user-images.githubusercontent.com/75161978/150029734-cc76dd88-059a-4117-aa4b-8dcea232e890.gif" width="380">
 
 # Blueprint
 I thought for a while, and settled on a model of the game I'd create
