@@ -1,7 +1,7 @@
 # Box Game
 Box Game was my first ever project, completed way back in 2018 during my Junior year of high school. At the time, I had hardly ever coded in my life. I made the classic programs everyone makes such as "Hello World", tic tac toe, and small games with MIT media lab, but at a certian point I felt as if I wasn't learning anything too valuble. After talking to a friends parent about what I should do next, they suggested I learned how to use a Raspberry Pi and make something with it. That day after school I walked to MicroCenter and bought myself a raspberry pi. For about a week I messed around writing random lines of code, editing the built in Minecraft world, and gained a basic understanding of how the device worked. During this time, I decided my first project would be to figure out how to light up a single LED. After a lot of failures and re-evaluation, I finally got the LED to light up. With a rush of acomplishment flowing through my body, I knew I had to take it one step further...
 
-# Creation of The Game
+# Inspiration
 I had recently gone to Dave & Busters with my dad and had played the -*extremely rigged*- arcade "Cyclone". I wondered how hard it would be to make my own version of the game, and quickly got to start with research and required parts. 
 
 **[Cyclone Arcade Game](https://www.betson.com/amusement-products/cyclone/)**
@@ -27,7 +27,7 @@ To get started I had to go out and get certain parts, including:
 - Soldering Iron
 
 
-**How I created it:**
+# Creation
 - I took apart the existing sytem I had built to light up a single LED
 - Figured out what each pin on the Raspberry Pi represented
 - Connected one end of each wire to the Raspberry Pi, and the other to the breadboard
