@@ -16,7 +16,7 @@ I thought for a while and settled on a model of the game I'd create
 - If a player does successfully earn a point, the green LED flashes an amount equivalent to that player's point total
 - The game ends when a player reaches five points, which triggers a short light show for their enjoyment
 
-To get started I had to go out and get certain parts, including:
+To get started I had to go out and get the following parts:
 - Shoebox
 - Buttons
 - Breadboard
