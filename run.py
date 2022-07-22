@@ -5,10 +5,10 @@ import random as r
 from time import sleep as s
 import backend as B
 
-# HERE ARE ALL OF THE GPIO PINS THAT I USE FOR THE LEDs IN ORDER
+# GPIO PINS FOR THE LEDs IN ORDER
 lP = [19, 26, 12, 16, 21, 24, 23, 18, 22, 27, 17, 4]
 
-# HERE ARE THE GPIO PINS FOR THE PLAYER 1 & 2 BUTTONS
+# GPIO PINS FOR THE PLAYER 1 & 2 BUTTONS
 button = [25, 20]
 
 gameOver = 1
@@ -58,6 +58,7 @@ try:
 			B.SwitchLED(lP,lP[step])
 
 			# IF EITHER PLAYER IS HOLDING THEIR BUTTON WHILE IN GAME, THEN LETS ADD TO THEIR HOLD TIME ELSE RESET IT
+			# ENDED UP NOT REALLY USED
 			for a in range(2):
 				if gameOver is 0 and GPIO.input(button[a]) is 0:
 					quit[a]+=1
